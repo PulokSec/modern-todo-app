@@ -1,5 +1,5 @@
 # 🚀 Modern ToDo APP
--[Live Site](https://modern-todo-app-five.vercel.app/)
+⚡[Live Site](https://modern-todo-app-five.vercel.app/)
 
 A modern, feature-rich Kanban board todo application built with Next.js, React, TypeScript, and Zustand for state management. This application provides an intuitive drag-and-drop interface for managing tasks across different stages of completion.
 
